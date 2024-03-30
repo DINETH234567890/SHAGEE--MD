@@ -2,19 +2,19 @@
 
   <p align="center">
 
-<img src="https://telegra.ph/file/b8e8a0b9a9e4d8ab0fed0.jpg" alt="GIF" width="300" height="270"/>
+<img src="" alt="GIF" width="300" height="270"/>
 
 </p>
 
   <p align="center">
 
-<a href="#"><img title="Astro-MD" src="https://img.shields.io/badge/astro-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="shagee-md" src="https://img.shields.io/badge/shage-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
 </div>
 
-#### <p align="center">By Vihanga YT| © | Reserved  </br> 
+#### <p align="center">By SHAGEE| © | Reserved  </br> 
 
 # ASTRO-BOT-MD-V1.0
 #### TOTAL REPO VIEWS📍
@@ -31,7 +31,7 @@
      > Spotify down and searcher [.spotify]
      > and more...  
    
-   ```Thanks Fro using Astro-MD```
+   ```Thanks FRO YOU```
    
 # Support Group <a href="https://chat.whatsapp.com/JLqwVWcONTkFRRfW89IcR5"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
