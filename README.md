@@ -2,7 +2,7 @@
 
   <p align="center">
 
-<img src="" alt="GIF" width="300" height="270"/>
+<img src="https://telegra.ph/file/168b980b94cbd5a8cbc5e.jpg" alt="GIF" width="300" height="270"/>
 
 </p>
 
@@ -16,22 +16,13 @@
 
 #### <p align="center">By SHAGEE| © | Reserved  </br> 
 
-# ASTRO-BOT-MD-V1.0
+# SHAGEE MD-V1.0
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-    [©] AstroBot-MD New Features
 
-     > Playstore Apk Downloder [.downapk]
-     > Playstore Apk searcher [.apk]
-     > ATTP [.ttp]
-     > Tts [.tts]
-     > Pemoji [.pemoji]
-     > Movie searcher [.movie]
-     > Spotify down and searcher [.spotify]
-     > and more...  
    
-   ```Thanks FRO YOU```
+   ```Thanks FOR MY TAEM```
    
 # Support Group <a href="https://chat.whatsapp.com/JLqwVWcONTkFRRfW89IcR5"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
