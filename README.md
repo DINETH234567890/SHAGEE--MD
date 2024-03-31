@@ -2,7 +2,7 @@
 
   <p align="center">
 
-<img src="https://telegra.ph/file/168b980b94cbd5a8cbc5e.jpg" alt="GIF" width="300" height="270"/>
+<img src="https://telegra.ph/file/9e8a7602dcb0a2f6d5e13.jpg" alt="GIF" width="300" height="270"/>
 
 </p>
 
