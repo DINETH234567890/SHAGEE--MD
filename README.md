@@ -8,7 +8,7 @@
 
   <p align="center">
 
-<a href="#"><img title="shagee-md" src="https://img.shields.io/badge/shage-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="shagee-md" src="https://img.shields.io/badge/SHAGEE RUKI-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
